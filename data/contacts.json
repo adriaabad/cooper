@@ -1,66 +1,40 @@
 [
   {
     "id": "contact-alex",
-    "name": "Alex Riu",
+    "name": "Cristina Polo",
     "relationship": {
       "en": "Responsible person",
       "es": "Persona responsable",
       "ca": "Persona responsable"
     },
-    "phone": "00000000000",
-    "email": "alex@example.invalid",
+    "phone": "+34607723655",
+    "whatsapp": "+34607723655",
+    "email": "",
     "preferred": "phone",
     "language": "ca",
+    "availability": {
+      "ca": "Sempre "
+    },
     "publish": true,
-    "consent": true,
-    "whatsapp": "00000000000"
+    "consent": true
   },
   {
     "id": "contact-nora",
-    "name": "Nora Bosc",
+    "name": "Adrià Abad",
     "relationship": {
       "en": "Responsible person",
       "es": "Persona responsable",
       "ca": "Persona responsable"
     },
-    "phone": "00000000000",
-    "email": "nora@example.invalid",
+    "phone": "+34660081187",
+    "whatsapp": "+34660081187",
+    "email": "adriaabad92@gmail.com",
     "preferred": "phone",
     "language": "ca",
-    "publish": true,
-    "consent": true,
-    "whatsapp": "00000000000"
-  },
-  {
-    "id": "contact-nil",
-    "name": "Nil Mar",
-    "relationship": {
-      "en": "Responsible person",
-      "es": "Persona responsable",
-      "ca": "Persona responsable"
+    "availability": {
+      "ca": "Sempre "
     },
-    "phone": "00000000000",
-    "email": "nil@example.invalid",
-    "preferred": "phone",
-    "language": "ca",
     "publish": true,
-    "consent": true,
-    "whatsapp": "00000000000"
-  },
-  {
-    "id": "contact-aina",
-    "name": "Aina Vent",
-    "relationship": {
-      "en": "Responsible person",
-      "es": "Persona responsable",
-      "ca": "Persona responsable"
-    },
-    "phone": "00000000000",
-    "email": "aina@example.invalid",
-    "preferred": "phone",
-    "language": "ca",
-    "publish": true,
-    "consent": true,
-    "whatsapp": "00000000000"
+    "consent": true
   }
 ]
